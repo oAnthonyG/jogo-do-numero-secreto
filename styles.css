@@ -44,3 +44,16 @@ h3 {
   margin: 2.5rem;
   border: 2px solid var(--primary-color);
 }
+
+.btn-jogar{
+  margin-top: 1.25rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: var(--primary-color);
+}
+
+.btn-jogar:hover{
+  filter: brightness(1.2);
+}
